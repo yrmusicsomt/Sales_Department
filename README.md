@@ -1,6 +1,6 @@
 # **Customer Segmentation Using Rossmann Sales Data**
 
-This project leverages the Rossmann Store Sales dataset to predict and
+This project uses the Rossmann Store Sales dataset to predict and
 analyze customer segmentation. The dataset provides insights into
 various store attributes, customer behavior, and sales data over a
 specific time frame. Below is a detailed guide to understanding the
@@ -54,7 +54,7 @@ The project utilizes two primary datasets:
         -   CompetitionOpenSinceMonth: Month when competition was
             > opened.
 
-        -   CompetitionOpenSinceYear: Year when competition was opened.
+        -   CompetitionOpenSinceYear: Year when the competition was opened.
 
         -   Promo2: Whether the store is running Promo2 (1 = Yes, 0 =
             > No).
@@ -131,7 +131,7 @@ The project utilizes two primary datasets:
     > cd \<project_directory\>
 
 3.  Run the notebook or Python scripts for analysis.\
-    > python analysis_script.py
+    > python Sales_Department.py
 
 ## **Results**
 
